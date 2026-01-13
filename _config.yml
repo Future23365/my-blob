@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://future23365.github.io/my-blob/
+url: https://future23365.github.io/blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Future23365/my-blob.git
+  repo: git@github.com:Future23365/blog.git
   branch: gh-pages
 
 symbols_count_time:
